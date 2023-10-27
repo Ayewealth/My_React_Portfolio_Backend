@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'My Portfolio',
+  title: 'react_portfolio',
 
-  projectId: 'nmm0ehzr',
+  projectId: 'sthfovgv',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
