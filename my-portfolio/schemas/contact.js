@@ -21,10 +21,4 @@ export default {
       type: 'text',
     },
   ],
-  permissions: [
-    {
-      role: 'public',
-      access: 'create',
-    },
-  ],
 }
